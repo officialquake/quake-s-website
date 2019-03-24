@@ -1,2 +1,2 @@
 # quakehook.xyz-website
-My source for the website
+My source for http://quakehook.xyz/
